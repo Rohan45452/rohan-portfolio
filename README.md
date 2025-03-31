@@ -22,9 +22,6 @@ To switch between these themes, link the desired theme's CSS file in your HTML. 
 
 #### Authors:
 
-- Special thanks to [Mr. Anbuselvan
-  Rocky](https://github.com/anburocky3) for his valuable mentorship.
-
 ##### Connect with me on:
 
 - [Linked-in](https://www.linkedin.com/in/sudharsan-a-b40506290/)
